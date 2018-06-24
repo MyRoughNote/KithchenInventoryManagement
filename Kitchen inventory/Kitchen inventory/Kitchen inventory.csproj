@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AC00C97D-050D-4746-B361-7B3667C3279E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Kitchen_inventory</RootNamespace>
+    <AssemblyName>Kitchen inventory</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Customer Detail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer Detail.Designer.cs">
+      <DependentUpon>Customer Detail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customerDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>customerDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="customermanipulation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customermanipulation.Designer.cs">
+      <DependentUpon>customermanipulation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dish.Designer.cs">
+      <DependentUpon>Dish.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dishDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dishDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dishmanipulation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dishmanipulation.Designer.cs">
+      <DependentUpon>Dishmanipulation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Feedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Feedback.Designer.cs">
+      <DependentUpon>Feedback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login manipulation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login manipulation.Designer.cs">
+      <DependentUpon>Login manipulation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="master.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="master.Designer.cs">
+      <DependentUpon>master.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Orderintake.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Orderintake.Designer.cs">
+      <DependentUpon>Orderintake.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ordershow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ordershow.Designer.cs">
+      <DependentUpon>Ordershow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Purchase Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Purchase Order.Designer.cs">
+      <DependentUpon>Purchase Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PurchaseDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PurchaseDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="recipeconfigDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>recipeconfigDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Recipes Configure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recipes Configure.Designer.cs">
+      <DependentUpon>Recipes Configure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reorder analyser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reorder analyser.Designer.cs">
+      <DependentUpon>Reorder analyser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportcustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportcustomer.Designer.cs">
+      <DependentUpon>reportcustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportdish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportdish.Designer.cs">
+      <DependentUpon>reportdish.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportmaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportmaster.Designer.cs">
+      <DependentUpon>Reportmaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportPurchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportPurchase.Designer.cs">
+      <DependentUpon>reportPurchase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportRecipeconfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportRecipeconfig.Designer.cs">
+      <DependentUpon>reportRecipeconfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportstockinventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportstockinventory.Designer.cs">
+      <DependentUpon>reportstockinventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stock manipulation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stock manipulation.Designer.cs">
+      <DependentUpon>stock manipulation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stockinventoryDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>stockinventoryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="stockmaintain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stockmaintain.Designer.cs">
+      <DependentUpon>stockmaintain.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Customer Detail.resx">
+      <DependentUpon>Customer Detail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customermanipulation.resx">
+      <DependentUpon>customermanipulation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dish.resx">
+      <DependentUpon>Dish.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dishmanipulation.resx">
+      <DependentUpon>Dishmanipulation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Feedback.resx">
+      <DependentUpon>Feedback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login manipulation.resx">
+      <DependentUpon>Login manipulation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="master.resx">
+      <DependentUpon>master.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Orderintake.resx">
+      <DependentUpon>Orderintake.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ordershow.resx">
+      <DependentUpon>Ordershow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Purchase Order.resx">
+      <DependentUpon>Purchase Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recipes Configure.resx">
+      <DependentUpon>Recipes Configure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reorder analyser.resx">
+      <DependentUpon>Reorder analyser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <EmbeddedResource Include="Report5.rdlc" />
+    <EmbeddedResource Include="reportcustomer.resx">
+      <DependentUpon>reportcustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportdish.resx">
+      <DependentUpon>reportdish.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportmaster.resx">
+      <DependentUpon>Reportmaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportPurchase.resx">
+      <DependentUpon>reportPurchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportRecipeconfig.resx">
+      <DependentUpon>reportRecipeconfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportstockinventory.resx">
+      <DependentUpon>reportstockinventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stock manipulation.resx">
+      <DependentUpon>stock manipulation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stockmaintain.resx">
+      <DependentUpon>stockmaintain.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="customerDataSet.xsc">
+      <DependentUpon>customerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="customerDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>customerDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="customerDataSet.xss">
+      <DependentUpon>customerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dishDataSet.xsc">
+      <DependentUpon>dishDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dishDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dishDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dishDataSet.xss">
+      <DependentUpon>dishDataSet.xsd</DependentUpon>
+    </None>
+    <Fakes Include="Fakes\Microsoft.ReportViewer.Common.fakes" />
+    <Fakes Include="Fakes\Microsoft.ReportViewer.WinForms.fakes" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="PurchaseDataSet1.xsc">
+      <DependentUpon>PurchaseDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="PurchaseDataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PurchaseDataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="PurchaseDataSet1.xss">
+      <DependentUpon>PurchaseDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="recipeconfigDataSet.xsc">
+      <DependentUpon>recipeconfigDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="recipeconfigDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>recipeconfigDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="recipeconfigDataSet.xss">
+      <DependentUpon>recipeconfigDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Kitcheninventory" />
+    <None Include="Scripts\jquery-3.1.1.min.map" />
+    <None Include="Scripts\jquery-3.1.1.slim.min.map" />
+    <None Include="stockinventoryDataSet.xsc">
+      <DependentUpon>stockinventoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="stockinventoryDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>stockinventoryDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="stockinventoryDataSet.xss">
+      <DependentUpon>stockinventoryDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Scripts\jquery-3.1.1.intellisense.js" />
+    <Content Include="Scripts\jquery-3.1.1.js" />
+    <Content Include="Scripts\jquery-3.1.1.min.js" />
+    <Content Include="Scripts\jquery-3.1.1.slim.js" />
+    <Content Include="Scripts\jquery-3.1.1.slim.min.js" />
+    <None Include="Resources\MasterImage.jpg" />
+    <None Include="Resources\ReportImage.jpg" />
+    <None Include="Resources\LogoImage.png" />
+    <None Include="Resources\Atlanta_PushStart Kitchen_Chef Zachary Meloy_2012-17570.jpg" />
+    <None Include="Resources\6283132957_2665dfb4e8_z.jpg" />
+    <None Include="Resources\report.jpg" />
+    <Content Include="Resources\url.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

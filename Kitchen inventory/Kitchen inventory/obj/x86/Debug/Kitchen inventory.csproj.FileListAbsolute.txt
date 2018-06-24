@@ -1,0 +1,92 @@
+c:\users\acer\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Login.resources
+c:\users\acer\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\acer\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\acer\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\bin\Debug\Kitchen inventory.exe
+c:\users\acer\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\bin\Debug\Kitchen inventory.pdb
+c:\users\acer\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen inventory.exe
+c:\users\acer\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen inventory.pdb
+C:\Users\ACER\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.master.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.stockmaintain.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.stock_manipulation.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Dish.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Dishmanipulation.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Loginmanipulation.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.CustomerDetail.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.customermanipulation.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Reorder_analyser.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Kitchen inventory\Kitchen inventory\bin\Debug\Kitchen inventory.exe.config
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Reportmaster.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.reportstockinventory.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\RdlCompile.cache
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.reportdish.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.reportcustomer.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.RecipesConfigure.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.reportPurchase.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.reportRecipeconfig.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Purchase_Order.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Orderintake.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Ordershow.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Feedback.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\bin\Debug\Kitchen inventory.exe.config
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen inventory.exe
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen inventory.pdb
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\bin\Debug\Kitchen inventory.exe
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\bin\Debug\Kitchen inventory.pdb
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.CustomerDetail.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.customermanipulation.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Dish.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Dishmanipulation.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Feedback.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Loginmanipulation.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Login.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.master.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Orderintake.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Ordershow.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Properties.Resources.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Purchase_Order.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.RecipesConfigure.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Reorder_analyser.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.reportcustomer.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.reportdish.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Reportmaster.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.reportPurchase.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.reportRecipeconfig.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.reportstockinventory.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.stock_manipulation.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.stockmaintain.resources
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\RdlCompile.cache
+J:\Whole Approved Project With Feedback\Kitchen inventory\Kitchen inventory\obj\x86\Debug\RdlCompile.compiled
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.CustomerDetail.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.customermanipulation.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Dish.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Dishmanipulation.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Feedback.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Loginmanipulation.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Login.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.master.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Orderintake.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Ordershow.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Properties.Resources.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Purchase_Order.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.RecipesConfigure.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Reorder_analyser.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.reportcustomer.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.reportdish.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.Reportmaster.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.reportPurchase.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.reportRecipeconfig.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.reportstockinventory.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.stock_manipulation.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen_inventory.stockmaintain.resources
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen inventory.csproj.GenerateResource.Cache
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\RdlCompile.cache
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\RdlCompile.compiled
+E:\Others\Kitchen inventory\Kitchen inventory\bin\Debug\Kitchen inventory.exe.config
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen inventory.csprojFakesResolveAssemblyReference.cache
+E:\Others\Kitchen inventory\Kitchen inventory\obj\x86\Debug\Kitchen inventory.csprojResolveAssemblyReference.cache
